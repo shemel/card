@@ -22,11 +22,6 @@ Blog
 ----------------------
 [https://www.shemel.de](https://www.shemel.de/ "Beiträge und Gedanken zur Agilen Softwareentwicklung, Zeitmanagement und mehr ...")
 
-Meine Android Apps
-----------------------
-* [Webcam Ingolstadt](https://play.google.com/store/apps/details?id=de.shemel.webcamingolstadt "Webcam Bilder incl. Temperatur aus Ingolstadt an der Donau www.webcam-ingolstadt.de")
-* [Send Note To Watch - Notizen](https://play.google.com/store/apps/details?id=de.shemel.sendnotetowatch "Schreibe einfach eine Notiz und sende sie an deine Android Wear smartwatch")
-
 Meine Webseiten
 ----------------------
 **WEBCAM & WETTER**
@@ -39,6 +34,11 @@ Meine Webseiten
   * [Bahnhofsmission Bad Hersfeld - 2013 bis heute](https://www.bahnhofsmission-hersfeld.de/ "Bahnhofsmission Bad Hersfeld")
   * [Tafel Bad Hersfeld - 2007 bis heute](https://www.tafel-hef.de/ "Tafel Bad Hersfeld")
   * [Talk-Search.de - 2001 bis heute](https://www.talk-search.de/ "Mein Gewerbe")
+
+Meine Android Apps
+----------------------
+* [Webcam Ingolstadt](https://play.google.com/store/apps/details?id=de.shemel.webcamingolstadt "Webcam Bilder incl. Temperatur aus Ingolstadt an der Donau www.webcam-ingolstadt.de")
+* [Send Note To Watch - Notizen](https://play.google.com/store/apps/details?id=de.shemel.sendnotetowatch "Schreibe einfach eine Notiz und sende sie an deine Android Wear smartwatch")
 
 Meine Veröffentlichungen auf Amazon
 ----------------------
