@@ -30,7 +30,7 @@ Meine Webseiten
 
 Meine Veröffentlichungen auf Amazon
 ----------------------
-* [Zeit- und Selbstmanagement im Beruf - Lernen Sie, Ihren Tag in nur 30 Minuten effektiv zu organisieren](http://www.amazon.de/gp/product/B00D51ANSA/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00D51ANSA&linkCode=as2&tag=programmieren-21 "Zeit- und Selbstmanagement")
-* [] ( "")
-* [] ( "")
-* [] ( "")
+* [Zeit- und Selbstmanagement im Beruf - Lernen Sie, Ihren Tag in nur 30 Minuten effektiv zu organisieren](http://www.amazon.de/gp/product/B00D51ANSA/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00D51ANSA&linkCode=as2&tag=programmieren-21 "Zeit- und Selbstmanagement") 
+* [Scrum Agile Softwareentwicklung im Team - Lernen Sie Scrum effektiv in der Praxis anzuwenden](http://www.amazon.de/gp/product/B00EDS0Z3M/ref=as_li_ss_tl?ie=UTF8&camp=1638&creative=19454&creativeASIN=B00EDS0Z3M&linkCode=as2&tag=programmieren-21 "Scrum Agile Softwareentwicklung im Team")
+* [Raspberry Pi - Setze deinen eigenen Webcam- und Temperatur-Server auf](https://www.amazon.de/Raspberry-Pi-eigenen-Webcam-Temperatur-Server-ebook/dp/B01AZ37RMA/ref=as_li_ss_tl?ie=UTF8&qid=1480668879&sr=8-1&keywords=sebastian+hemel&linkCode=ll1&tag=programmieren-21&linkId=4afdea10eff3f0f04008123addbda044 "Raspberry Pi - SWebcam- und Temperatur-Server")
+* [Scrum – intensiv: kompakt & einfach](http://amzn.to/2jlrhk5 "Scrum – intensiv")
