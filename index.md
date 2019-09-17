@@ -1,12 +1,12 @@
 Sebastian Hemel
 ======================
-
-Medieninformatik
+ 
+Medieninformatik 
 ----------------------
 * Master of Science (M. Sc.)
 * Diplom-Ingenieur (FH)
 
-Qualifikationen
+Qualifikationen 
 ----------------------
 * Certified ScrumMaster (CSM)
 * Product Owner Advanced certified by bor!sgloger
