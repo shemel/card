@@ -1,5 +1,6 @@
 Sebastian Hemel
 ======================
+
 Medieninformatik
 ----------------------
 * Master of Science (M. Sc.)
