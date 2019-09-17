@@ -23,7 +23,11 @@ Meine Android Apps
 
 Meine Webseiten
 ----------------------
-* [] ( "")
+**WEBCAM & WETTER**
+* Webcam-Server auf Basis von Raspberry Pi - 2005 bis heute
+  * [Webcam Obergeis](https://www.obergeis.net/ "Webcam Obergeis")
+  * [Webcam Ingolstadt](https://www.webcam-ingolstadt.de/ "Webcam Ingolstadt")
+  * [Webcam Eisenberg](https://webcam-eisenberg.talk-search.de/ "Webcam Eisenberg")
 * [] ( "")
 * [] ( "")
 * [] ( "")
