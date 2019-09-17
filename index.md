@@ -12,6 +12,12 @@ Qualifikationen
 * Product Owner Advanced certified by bor!sgloger
 * Deutscher Skiverband (DSV) Basic-Instructor (Skilehrer)
 
+Ich biete
+----------------------
+* Agile Softwareentwicklung, Softwareentwicklung mit Scrum, Continuous Integration, Projektmanagement, BPMN
+* Java EE, Hibernate-Framework, Android SDK, Node.js, HTML, PHP, Less, CSS, XML, MS-SQL, PostgreSQL, MySQL, IBM DB2
+* SOAP, Raspberry Pi, Ubuntu, Apache Tomcat, Spring Framework
+
 Blog
 ----------------------
 [https://www.shemel.de](https://www.shemel.de/ "Beiträge und Gedanken zur Agilen Softwareentwicklung, Zeitmanagement und mehr ...")
@@ -28,9 +34,10 @@ Meine Webseiten
   * [Webcam Obergeis](https://www.obergeis.net/ "Webcam Obergeis")
   * [Webcam Ingolstadt](https://www.webcam-ingolstadt.de/ "Webcam Ingolstadt")
   * [Webcam Eisenberg](https://webcam-eisenberg.talk-search.de/ "Webcam Eisenberg")
-* [] ( "")
-* [] ( "")
-* [] ( "")
+**Webseiten im Kundenauftrag**
+  * [Bahnhofsmission Bad Hersfeld - 2013 bis heute](https://www.bahnhofsmission-hersfeld.de/ "Bahnhofsmission Bad Hersfeld")
+  * [Tafel Bad Hersfeld - 2007 bis heute](https://www.tafel-hef.de/ "Tafel Bad Hersfeld")
+  * [Talk-Search.de - 2001 bis heute](https://www.talk-search.de/ "Mein Gewerbe")
 
 Meine Veröffentlichungen auf Amazon
 ----------------------
