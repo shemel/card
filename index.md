@@ -14,9 +14,10 @@ Qualifikationen
 
 Ich biete
 ----------------------
-* Agile Softwareentwicklung, Softwareentwicklung mit Scrum, Continuous Integration, Projektmanagement, BPMN
+* Agile Softwareentwicklung, Softwareentwicklung mit Scrum / Kanban, Continuous Integration, Projektmanagement, BPMN
 * Java EE, Hibernate-Framework, Android SDK, Node.js, HTML, PHP, Less, CSS, XML, MS-SQL, PostgreSQL, MySQL, IBM DB2
 * SOAP, Raspberry Pi, Ubuntu, Apache Tomcat, Spring Framework
+* Zeit- und Selbstmanagement, Wissensmanagement, DSGVO, Datenschutz
 
 Blog
 ----------------------
