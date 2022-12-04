@@ -16,8 +16,9 @@ Ich biete
 ----------------------
 * Agile Softwareentwicklung, Softwareentwicklung mit Scrum / Kanban, Continuous Integration, Projektmanagement, BPMN
 * Java EE, Hibernate-Framework, Android SDK, Node.js, HTML, PHP, Less, CSS, XML, MS-SQL, PostgreSQL, MySQL, IBM DB2
-* SOAP, Raspberry Pi, Ubuntu, Apache Tomcat, Spring Framework
-* Zeit- und Selbstmanagement, Wissensmanagement, DSGVO, Datenschutz
+* SOAP, Raspberry Pi, Ubuntu, Apache Tomcat, Spring Framework, Browser dev-tools, Usability, Responsive Design
+* Zeit- und Selbstmanagement, Wissensmanagement, DSGVO, Datenschutz, IT-Security
+* Englisch B2, Spanisch A2
 
 Blog
 ----------------------
@@ -35,11 +36,6 @@ Meine Webseiten
   * [Bahnhofsmission Bad Hersfeld - 2013 bis heute](https://www.bahnhofsmission-hersfeld.de/ "Bahnhofsmission Bad Hersfeld")
   * [Tafel Bad Hersfeld - 2007 bis heute](https://www.tafel-hef.de/ "Tafel Bad Hersfeld")
   * [Talk-Search.de - 2001 bis heute](https://www.talk-search.de/ "Mein Gewerbe")
-
-Meine Android Apps
-----------------------
-* [Webcam Ingolstadt](https://play.google.com/store/apps/details?id=de.shemel.webcamingolstadt "Webcam Bilder incl. Temperatur aus Ingolstadt an der Donau www.webcam-ingolstadt.de")
-* [Send Note To Watch - Notizen](https://play.google.com/store/apps/details?id=de.shemel.sendnotetowatch "Schreibe einfach eine Notiz und sende sie an deine Android Wear smartwatch")
 
 Meine Veröffentlichungen auf Amazon
 ----------------------
